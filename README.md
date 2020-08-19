@@ -7,7 +7,7 @@
 这是网页版，目前还有处于开发阶段的[Android版本](https://github.com/NitroRCr/WordsAway_Android)
 
 ## 注意
-这是二刺螈化的精简版本，适合嵌入式系统部署。
+这是二刺螈化的精简版本，适合嵌入式系统部署。[演示站点](https://pan.fumiama.top:8845)
 
 ## 原理：
 以下是不同选项的原理

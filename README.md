@@ -1,10 +1,13 @@
-# Words-away  
+# Words-away-simplified
 ## 这个东西是干什么的？
 一个文本处理工具，用于防止对文本的敏感词检测。主要是因为酷安的折叠词太过蜜汁，**例如“申诉”也会被折叠（doge）**所以就有了这个工具。
 
 设计目标为酷安，理论上所有完整支持Unicode的社区等 都能够使用，但效果不确定。实测对[网易易盾](https://dun.163.com/product/text-detection)的文本检测API有一定效果。
 
 这是网页版，目前还有处于开发阶段的[Android版本](https://github.com/NitroRCr/WordsAway_Android)
+
+## 注意
+这是二刺螈化的精简版本，适合嵌入式系统部署。
 
 ## 原理：
 以下是不同选项的原理

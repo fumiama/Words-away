@@ -16,6 +16,7 @@
   white-space: nowrap;
   word-wrap: normal;
   direction: ltr;
+  font-feature-settings: 'liga';
   -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased; }
 
@@ -92,12 +93,11 @@ h3 {
           position: absolute;
           margin: 0;
           transition: background 0.8s ease;
-          transform: translate3d(-2vw, -100vh, -2px) scale(3.1);
           transform-origin: top;
           width: 100%;
           background-size: cover;
           background-position: center;
-          height: calc((100% - 100vh)/3 + 100vh);
+          height: 100%;
           transition: background 1s ease;
           background-image: url(../img/dark-mobile-compressed/port-black.png); }
           @media screen and (orientation: landscape) {
